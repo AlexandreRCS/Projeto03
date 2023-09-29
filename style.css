@@ -241,3 +241,8 @@ footer .buttom:hover{
 
     transition: 0.5s;
 }
+
+
+input:invalid{
+    border: 2px solid red;
+}
